@@ -1,6 +1,6 @@
-package com.itrex.lesson11
+package com.itrex.lesson11Swich
 
-import com.itrex.lesson10.Person
+import com.itrex.lesson10IfElse.Person
 
 class SwitchRunner {
 

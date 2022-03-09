@@ -1,4 +1,4 @@
-package com.itrex.lesson10
+package com.itrex.lesson10IfElse
 
 class Lesson10IfElse {
 

@@ -67,6 +67,8 @@
       <root url="jar://$PROJECT_DIR$/../../java/apache-groovy-sdk-4.0.0/groovy-4.0.0/lib/xstream-1.4.18.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/groovy-4.0.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

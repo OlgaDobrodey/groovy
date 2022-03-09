@@ -1,4 +1,4 @@
-package com.itrex.lesson9
+package com.itrex.lesson9Closure
 
 import java.util.function.Function
 import java.util.stream.Stream

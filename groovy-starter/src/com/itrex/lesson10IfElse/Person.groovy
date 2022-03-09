@@ -1,4 +1,4 @@
-package com.itrex.lesson10
+package com.itrex.lesson10IfElse
 
 class Person {
 
@@ -17,7 +17,7 @@ class Person {
     }
 
     boolean isCase(Object switchValue) {
-        println "invoke isCase: " + switchValue
+        println "invoke isCase: $switchValue"
         false
     }
 

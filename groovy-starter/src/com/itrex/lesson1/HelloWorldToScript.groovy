@@ -1,4 +1,4 @@
-package com.itrex
+package com.itrex.lesson1
 
 /*
 result:
@@ -13,11 +13,11 @@ Integer value //default private
 
 println "Hello World"
 println value
-Integer param = new com.itrex.HelloWorldToScript().value
+Integer param = new HelloWorldToScript().value
 println(param)
 println(getValue())
 println anyThing
-println(com.itrex.HelloWorldToScript.getClassLoader()) //groovy.lang.GroovyClassLoader$InnerLoader@4218500f
+println(HelloWorldToScript.getClassLoader()) //groovy.lang.GroovyClassLoader$InnerLoader@4218500f
 
 
 Integer getValue() {

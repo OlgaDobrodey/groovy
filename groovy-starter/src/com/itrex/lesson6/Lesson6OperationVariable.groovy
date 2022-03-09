@@ -1,4 +1,4 @@
-package com.itrex
+package com.itrex.lesson6
 
 import groovy.transform.EqualsAndHashCode
 

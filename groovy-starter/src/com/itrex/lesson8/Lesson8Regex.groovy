@@ -1,4 +1,4 @@
-package com.itrex
+package com.itrex.lesson8
 
 import java.util.regex.Matcher
 import java.util.regex.Pattern
@@ -37,9 +37,6 @@ class Lesson8Regex {
 
         println "EACH 2"
         matcher.each { println it[2]}
-
-
-
 
     }
 

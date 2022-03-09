@@ -1,4 +1,7 @@
-package com.itrex
+package com.itrex.lesson4
+
+import com.itrex.lesson1.HelloWorld
+import com.itrex.lesson1.HelloWorldToScript
 
 import java.sql.DriverManager
 

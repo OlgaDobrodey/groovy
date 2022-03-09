@@ -1,5 +1,8 @@
 package com.itrex.lesson10IfElse
 
+import groovy.transform.ToString
+
+@ToString
 class Person {
 
     final Integer id
@@ -21,11 +24,4 @@ class Person {
         false
     }
 
-
-    @Override
-    public String toString() {
-        return "Person{" +
-                "id=" + id +
-                '}';
-    }
 }

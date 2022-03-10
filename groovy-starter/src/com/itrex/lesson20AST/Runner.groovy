@@ -1,5 +1,7 @@
 package com.itrex.lesson20AST
 
+import com.itrex.lesson23MissingMethodAndProperty.Student
+
 class Runner {
 
     static void main(String[] args) {

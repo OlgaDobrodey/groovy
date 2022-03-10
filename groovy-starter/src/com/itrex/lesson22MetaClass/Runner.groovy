@@ -1,6 +1,6 @@
 package com.itrex.lesson22MetaClass
 
-import com.itrex.lesson20AST.Student
+import com.itrex.lesson23MissingMethodAndProperty.Student
 import org.codehaus.groovy.runtime.DefaultGroovyMethods
 
 class Runner {

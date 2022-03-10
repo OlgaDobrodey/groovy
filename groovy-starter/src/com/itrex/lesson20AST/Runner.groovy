@@ -1,4 +1,4 @@
-package com.itrex.lessons20AST
+package com.itrex.lesson20AST
 
 class Runner {
 
